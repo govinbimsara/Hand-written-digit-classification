@@ -33,7 +33,7 @@ plt.matshow(x_train[0])
 
 y_train[0]
 
-#To avoid exploding gradients
+
 x_train = x_train/255
 x_test = x_test/255
 
