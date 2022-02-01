@@ -8,7 +8,7 @@ Original file is located at
 """
 
 #checking VGA
-!nvidia-smi
+# !nvidia-smi
 
 # Commented out IPython magic to ensure Python compatibility.
 #Importing libraries
